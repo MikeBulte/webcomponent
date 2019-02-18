@@ -1,29 +1,6 @@
-# vue-web-component-project
+# testing-vue-web-components
 
-## Project setup
-```
-yarn install
-```
+## About
+A tiny web component using Vue.JS that doesn't really do anything outside of loading a customisable string in the form of an HTML tag.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+This is only made to figure out how to upload a web component to NPM.

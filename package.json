@@ -1,6 +1,7 @@
 {
-  "name": "vue-web-component-project",
-  "version": "0.1.0",
+  "name": "testing-vue-web-components",
+  "version": "1.0.0",
+  "main": "dist/vue-web-component.js",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -43,5 +44,16 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
-  ]
+  ],
+  "description": "testing a very basic web component",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeBulte/webcomponent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeBulte/webcomponent/issues"
+  },
+  "homepage": "https://github.com/MikeBulte/webcomponent#readme"
 }
